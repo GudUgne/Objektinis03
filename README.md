@@ -1,7 +1,7 @@
 # Studentų rezultatų skaičiuoklė
 
-## [Senesnės programos versijos ir jų analizė bei įdiegimo instrukcija](https://github.com/GudUgne/Objektinis02)
-https://github.com/GudUgne/Objektinis02
+## [Senesnės programos versijos ir jų analizė bei įdiegimo instrukcija](https://github.com/GudUgne/Objektinis02) <-
+
 
 
 ## Versijų istorija (changelog)
