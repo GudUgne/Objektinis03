@@ -1,5 +1,5 @@
-main: Fun.o Source.o Studentas.o
-	g++ -o main Source.cpp Fun.o Studentas.o
+main: 
+	g++ -std=c++11 Fun,cpp Source.cpp Studentas.cpp -o main
 functions:
 	g++ -c Fun.cpp
 class-functions:
