@@ -1,0 +1,29 @@
+Klasė - O1 flago rezultatai:
+
+100000 stud. f. vek. apskaiciavimas TRECIA strategija truko 2.36754 sek.
+1000000 stud. f. vek. apskaiciavimas TRECIA strategija truko 24.1007 sek.
+
+Klasė - O2 flago rezultatai:
+
+100000 stud. f. vek. apskaiciavimas TRECIA strategija truko 2.26235 sek.
+1000000 stud. f. vek. apskaiciavimas TRECIA strategija truko 24.1244 sek.
+
+Klasė - O3 flago rezultatai:
+
+100000 stud. f. vek. apskaiciavimas TRECIA strategija truko 2.23258 sek.
+1000000 stud. f. vek. apskaiciavimas TRECIA strategija truko 23.599 sek.
+
+Struktūra - O1 flago rezultatai:
+
+100000 stud. f. vek. apskaiciavimas TRECIA strategija truko 2.66262 sek.
+1000000 stud. f. vek. apskaiciavimas TRECIA strategija truko 29.3894 sek.
+
+Struktūra - O2 flago rezultatai:
+
+100000 stud. f. vek. apskaiciavimas TRECIA strategija truko 2.656 sek.
+1000000 stud. f. vek. apskaiciavimas TRECIA strategija truko 29.1539 sek.
+
+Struktūra - O3 flago rezultatai:
+
+100000 stud. f. vek. apskaiciavimas TRECIA strategija truko 2.64943 sek.
+1000000 stud. f. vek. apskaiciavimas TRECIA strategija truko 29.1116 sek.
