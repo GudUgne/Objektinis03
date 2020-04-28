@@ -6,7 +6,12 @@
 
 ## Versijų istorija (changelog)
 
-### [v1.1]()
+### [v1.2]() 2020-04-29
+
+- Pridėti operatoriai klasei, (lyginimo);
+- Naudoja [Rule of Three] (https://en.wikipedia.org/wiki/Rule_of_three_(C%2B%2B_programming)) taisyklė;
+
+### [v1.1](https://github.com/GudUgne/Objektinis03/releases/tag/v1.1) 2020-04-18
  
  - Palikta viena strategija iš senesnių (trečia), su vektoriumi;
  - Struktūra yra pakeista į klasę;
