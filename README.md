@@ -6,6 +6,11 @@
 
 ## Versijų istorija (changelog)
 
+### [v1.5]() 2020-05-06
+
+- Sukurta Base (Base) ir Derived (Studentas) klasės;
+-  Base (abstrakčiojoje) klasėje aprašomas žmogus (vardas ir pavardė), objektus gali pasiimti tik iš išvestinių klasių;
+
 ### [v1.2](https://github.com/GudUgne/Objektinis03/releases/tag/v1.2) 2020-04-29
 
 - Pridėti operatoriai klasei, kurių mano manymu galėtų prireikti (lyginimo, kopijavimo);
