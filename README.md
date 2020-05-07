@@ -8,6 +8,10 @@
 
 ### [v.2.0]() 2020-05-05
 
+- Yra panaudoti keli Unit Tests pasibandymui, jiems sukurtos paprastos funkcijos;
+- Yra naudojama Doxygen dokumentacija;
+- Repozitorijoje nėra šiukšlių, yra nuorodos į senesnes versijas ir nuorodos į kiekvieną release;
+
 ### [v1.5](https://github.com/GudUgne/Objektinis03/releases/tag/v1.5) 2020-05-06
 
 - Sukurta Base (Base) ir Derived (Studentas) klasės;
