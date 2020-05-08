@@ -6,7 +6,7 @@
 
 ## Versijų istorija (changelog)
 
-### [v.2.0]() 2020-05-05
+### [v.2.0](https://github.com/GudUgne/Objektinis03/releases/tag/v2.0) 2020-05-05
 
 - Yra panaudoti keli Unit Tests pasibandymui, jiems sukurtos paprastos funkcijos;
 - Yra naudojama Doxygen dokumentacija;
