@@ -20,3 +20,15 @@ TEST_CASE("Praslydusio studento tikrinimas") {
 	REQUIRE(Praslydes(1) == false);
 
 }
+
+TEST_CASE("Studentu skolos pagal suskaiciuota galutini naudojant vidurki") {
+
+	Studentas S1, S2, S3;
+	S1.setFinalAve(8);
+	S2.setFinalAve(4);
+	S3.setFinalAve(9);
+
+	REQUIRE(Skola1(S1) == true);
+	REQUIRE(Skola1(S2) == false);
+	REQUIRE(Skola1(S3) == true);
+}
